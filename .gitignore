@@ -3,3 +3,6 @@ myenv
 
 #Data
 data
+
+#DVC ignore
+.dvcignore
